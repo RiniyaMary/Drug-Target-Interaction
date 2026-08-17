@@ -46,6 +46,6 @@ The model was evaluated using the DrugBank dataset.
 - Mol2Vec
 - Graph Neural Networks
 - Deep Learning
-- Jupyter Notebook
+- V S Code
 - Git
 
